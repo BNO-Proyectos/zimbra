@@ -1,0 +1,12 @@
+{
+  "appFunctions": {
+    "myFunc": {
+      "file": "example-function.js",
+      "secrets": []
+    },
+    "create": {
+      "file": "create.js",
+      "secrets": []
+    }
+  }
+}
