@@ -2,6 +2,8 @@
   "dependencies": {
     "@hubspot/ui-extensions": "^0.8.33",
     "axios": "^1.7.7",
-    "ical.js": "^2.1.0"
+    "ical.js": "^2.1.0",
+    "react-calendar": "^5.1.0",
+    "react-icons": "^5.3.0"
   }
 }
